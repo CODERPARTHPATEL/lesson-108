@@ -19,3 +19,4 @@ from sklearn.metrics import accuracy_score
 y_predict = clf_model.predict(x_test)
 print(accuracy_score(y_test,y_predict))
 
+
